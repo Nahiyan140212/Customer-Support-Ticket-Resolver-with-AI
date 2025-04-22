@@ -1,0 +1,7 @@
+gspread==5.12.0
+oauth2client==4.1.3
+requests==2.31.0
+python-dotenv==1.0.1
+fastmcp
+uvicorn==0.29.0
+streamlit
